@@ -1,4 +1,7 @@
-# first-repository
-My first repository on GitHub
+# Samsung Developers
+http://developer.samsung.com
 
-If you want to see Tutorial, you can go 'http://developer.samsung.com'
+Samsung A SDK
+http://developer.samsung.com/a
+
+Technical Resource
